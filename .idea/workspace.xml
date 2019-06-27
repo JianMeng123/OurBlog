@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af37d39e-d88a-44c5-b783-c4a1552f7c79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/www/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/static/css/addons/uikit.addons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/static/css/addons/uikit.almost-flat.addons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/static/css/addons/uikit.gradient.addons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/static/css/awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/static/css/uikit.almost-flat.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/static/css/uikit.gradient.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/static/css/uikit.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/static/js/awesome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/static/js/sha1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/static/js/sticky.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/static/js/uikit.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/static/js/vue.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/__base__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/blogs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/www/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/handlers.py" beforeDir="false" afterPath="$PROJECT_DIR$/www/handlers.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,76 +65,90 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/orm.py">
+        <entry file="file://$PROJECT_DIR$/www/static/js/jquery.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            <state relative-caret-position="76">
+              <caret line="4" column="28664" selection-start-line="4" selection-start-column="28664" selection-end-line="4" selection-end-column="28664" />
               <folding>
-                <element signature="e#77#100#0" expanded="true" />
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/97cd27c5-5374-4cbd-81c3-3128ccfc8b08/console.sql">
+        <entry file="file://$PROJECT_DIR$/www/static/js/sha1.min.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+              <caret line="10" column="280" lean-forward="true" selection-start-line="10" selection-start-column="280" selection-end-line="10" selection-end-column="280" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/apis.py">
+        <entry file="file://$PROJECT_DIR$/www/static/js/sticky.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+            <state relative-caret-position="38">
+              <caret line="2" column="2117" selection-start-line="2" selection-start-column="2117" selection-end-line="2" selection-end-column="2117" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/coroweb.py">
+        <entry file="file://$PROJECT_DIR$/www/static/js/uikit.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="57">
+              <caret line="3" column="2126" selection-start-line="3" selection-start-column="2126" selection-end-line="3" selection-end-column="2126" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/config_default.py">
+        <entry file="file://$PROJECT_DIR$/www/static/js/vue.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+            <state relative-caret-position="114">
+              <caret line="6" column="23862" lean-forward="true" selection-start-line="6" selection-start-column="23862" selection-end-line="6" selection-end-column="23862" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/config_override.py">
+        <entry file="file://$PROJECT_DIR$/www/templates/__base__.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="215">
+              <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#4131#4137#0" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#a#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/www/config.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/templates/blogs.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+            <state relative-caret-position="342">
+              <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../pythonProject/venv/Lib/site-packages/jinja2/loaders.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="186" selection-start-line="186" selection-end-line="186" />
             </state>
           </provider>
         </entry>
@@ -125,20 +156,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/handlers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            <state relative-caret-position="361">
+              <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+              <folding>
+                <element signature="e#95#151#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/test.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="321">
+              <caret line="90" column="42" selection-start-line="90" selection-start-column="42" selection-end-line="90" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -149,6 +180,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -157,6 +191,9 @@
       <find>password</find>
       <find>model</find>
       <find>class</find>
+      <find>user</find>
+      <find>resp</find>
+      <find>__templating__</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -166,17 +203,33 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/www/markdown2.py" />
-        <option value="$PROJECT_DIR$/www/app.py" />
         <option value="$PROJECT_DIR$/www/orm.py" />
         <option value="$PROJECT_DIR$/www/models.py" />
         <option value="$PROJECT_DIR$/www/test.py" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/97cd27c5-5374-4cbd-81c3-3128ccfc8b08/console.sql" />
         <option value="$PROJECT_DIR$/www/apis.py" />
         <option value="$PROJECT_DIR$/www/coroweb.py" />
-        <option value="$PROJECT_DIR$/www/handlers.py" />
         <option value="$PROJECT_DIR$/www/config_default.py" />
         <option value="$PROJECT_DIR$/www/config_override.py" />
         <option value="$PROJECT_DIR$/www/config.py" />
+        <option value="$PROJECT_DIR$/www/templates/test.html" />
+        <option value="$PROJECT_DIR$/www/app.py" />
+        <option value="$PROJECT_DIR$/www/static/css/awesome.css" />
+        <option value="$PROJECT_DIR$/www/static/css/uikit.almost-flat.min.css" />
+        <option value="$PROJECT_DIR$/www/static/css/uikit.gradient.min.css" />
+        <option value="$PROJECT_DIR$/www/static/css/uikit.min.css" />
+        <option value="$PROJECT_DIR$/www/static/css/addons/uikit.addons.min.css" />
+        <option value="$PROJECT_DIR$/www/static/css/addons/uikit.almost-flat.addons.min.css" />
+        <option value="$PROJECT_DIR$/www/static/css/addons/uikit.gradient.addons.min.css" />
+        <option value="$PROJECT_DIR$/www/static/js/awesome.js" />
+        <option value="$PROJECT_DIR$/www/static/js/jquery.min.js" />
+        <option value="$PROJECT_DIR$/www/static/js/sha1.min.js" />
+        <option value="$PROJECT_DIR$/www/static/js/sticky.min.js" />
+        <option value="$PROJECT_DIR$/www/static/js/uikit.min.js" />
+        <option value="$PROJECT_DIR$/www/static/js/vue.min.js" />
+        <option value="$PROJECT_DIR$/www/templates/__base__.html" />
+        <option value="$PROJECT_DIR$/www/templates/blogs.html" />
+        <option value="$PROJECT_DIR$/www/handlers.py" />
       </list>
     </option>
   </component>
@@ -215,6 +268,19 @@
             </path>
             <path>
               <item name="OurBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OurBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OurBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OurBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OurBlog" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
@@ -230,10 +296,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="database.console.LAST_STATE" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
@@ -250,7 +318,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.app">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="OurBlog" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -297,8 +365,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
         <item itemvalue="Python.app" />
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -313,7 +381,7 @@
       <option name="presentableId" value="Default" />
       <updated>1561604370265</updated>
       <workItem from="1561604372080" duration="705000" />
-      <workItem from="1561606544325" duration="10608000" />
+      <workItem from="1561606544325" duration="12783000" />
     </task>
     <task id="LOCAL-00001" summary="day-03,day-04,day-05,day-06">
       <created>1561631026805</created>
@@ -326,7 +394,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11313000" />
+    <option name="totallyTimeSpent" value="13488000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1974" y="-8" width="1874" height="1096" extended-state="6" />
@@ -335,10 +403,10 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16703418" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Database Console" visible="true" weight="0.32952183" />
+      <window_info anchor="bottom" id="Database Console" weight="0.32952183" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32952183" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32952183" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32952183" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -353,7 +421,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.3296582" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3296582" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -365,7 +433,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/OurBlog$test.coverage" NAME="test Coverage Results" MODIFIED="1561629297382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www" />
-    <SUITE FILE_PATH="coverage/OurBlog$app.coverage" NAME="app Coverage Results" MODIFIED="1561614712843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www" />
+    <SUITE FILE_PATH="coverage/OurBlog$app.coverage" NAME="app Coverage Results" MODIFIED="1561632921802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/www/static/README">
@@ -400,13 +468,6 @@
     <entry file="das://97cd27c5-5374-4cbd-81c3-3128ccfc8b08/collation/utf8mb4_spanish_ci">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/orm.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
@@ -434,13 +495,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/handlers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/97cd27c5-5374-4cbd-81c3-3128ccfc8b08/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -458,7 +512,7 @@
     <entry file="file://$PROJECT_DIR$/www/coroweb.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -472,7 +526,7 @@
     <entry file="file://$PROJECT_DIR$/www/config_override.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -480,6 +534,166 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="329">
           <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/css/awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/css/uikit.almost-flat.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="75215" lean-forward="true" selection-start-line="2" selection-start-column="75215" selection-end-line="2" selection-end-column="75215" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/css/uikit.gradient.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="78752" selection-start-line="2" selection-start-column="78752" selection-end-line="2" selection-end-column="78752" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/css/uikit.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="69515" selection-start-line="2" selection-start-column="69515" selection-end-line="2" selection-end-column="69515" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/css/addons/uikit.addons.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="9873" selection-start-line="2" selection-start-column="9873" selection-end-line="2" selection-end-column="9873" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/css/addons/uikit.almost-flat.addons.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="11663" selection-start-line="2" selection-start-column="11663" selection-end-line="2" selection-end-column="11663" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/css/addons/uikit.gradient.addons.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="12695" selection-start-line="2" selection-start-column="12695" selection-end-line="2" selection-end-column="12695" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/js/awesome.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="443" column="25" lean-forward="true" selection-start-line="443" selection-start-column="25" selection-end-line="443" selection-end-column="25" />
+          <folding>
+            <element signature="e#67#72#0" expanded="true" />
+            <element signature="e#92#98#0" expanded="true" />
+            <element signature="e#119#124#0" expanded="true" />
+            <element signature="e#144#148#0" expanded="true" />
+            <element signature="e#168#172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="28664" selection-start-line="4" selection-start-column="28664" selection-end-line="4" selection-end-column="28664" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/js/sha1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="280" lean-forward="true" selection-start-line="10" selection-start-column="280" selection-end-line="10" selection-end-column="280" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/js/sticky.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="2117" selection-start-line="2" selection-start-column="2117" selection-end-line="2" selection-end-column="2117" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/js/uikit.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="2126" selection-start-line="3" selection-start-column="2126" selection-end-line="3" selection-end-column="2126" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/js/vue.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="23862" lean-forward="true" selection-start-line="6" selection-start-column="23862" selection-end-line="6" selection-end-column="23862" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/__base__.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#4131#4137#0" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/blogs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pythonProject/venv/Lib/site-packages/jinja2/loaders.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="186" selection-start-line="186" selection-end-line="186" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/handlers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+          <folding>
+            <element signature="e#95#151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="90" column="42" selection-start-line="90" selection-start-column="42" selection-end-line="90" selection-end-column="42" />
         </state>
       </provider>
     </entry>
